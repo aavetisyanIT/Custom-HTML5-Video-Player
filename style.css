@@ -105,7 +105,17 @@ body {
 	flex: 0;
 	flex-basis: 50%;
 }
-
+.expand {
+	background: none;
+	border: 0;
+	line-height: 1;
+	color: white;
+	text-align: center;
+	outline: 0;
+	padding: 0;
+	cursor: pointer;
+	max-width: 50px;
+}
 /* unholy css to style input type="range" */
 
 input[type='range'] {
