@@ -6,8 +6,8 @@ Here is a video player that is easy to customize. It has got scrollable progress
 
 HTML5, CSS3, JavaScript
 
-![]()
-![]()
+![](https://github.com/aavetisyanIT/Custom-HTML5-Video-Player/blob/main/git_image.PNG)
+![](https://github.com/aavetisyanIT/Custom-HTML5-Video-Player/blob/main/git_image1.PNG)
 
 ## Acknowledgments
 
